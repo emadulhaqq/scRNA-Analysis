@@ -51,5 +51,16 @@ Results are visualized using scatter plots to interpret clusters and gene expres
 - Matplotlib
 
 ---
+---
 
-## Project Structure
+## Conclusion
+This project provides a foundational understanding of scRNA-seq data analysis. The workflow can be extended with more advanced techniques such as differential gene expression analysis, cell type annotation, and trajectory inference.
+
+---
+
+## Future Improvements
+- Add batch effect correction
+- Perform cell type annotation
+- Include differential expression analysis
+- Explore trajectory analysis
+
